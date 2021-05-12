@@ -63,6 +63,8 @@ window.onkeydown = function(Hareket){
         this.cycYp = 636;
   
  }
- 
+   
+ else{
+    alert("Yanlış tuşa basıldı!!"); 
 }
 update(); //animasyonu baslatiyoruz
